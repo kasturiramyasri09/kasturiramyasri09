@@ -6,7 +6,7 @@ I enjoy building web applications that solve real-world problems. Alongside full
 
 Currently, I'm exploring the **MERN Stack** by building hands-on projects and strengthening my skills.
 
-I have worked on Pet Adoption and Rescue Management Portal, a full-stack MERN application designed to simplify pet adoption and rescue through secure authentication, role-based access, pet management, and adoption requests.
+I have worked on **Pet Adoption and Rescue Management Portal**, a full-stack MERN application designed to simplify pet adoption and rescue through secure authentication, role-based access, pet management, and adoption requests.
 
 I'm continuously learning **React, Node.js, Express.js, MongoDB, JavaScript, REST APIs**, while exploring new technologies that help me grow as a developer.
 
